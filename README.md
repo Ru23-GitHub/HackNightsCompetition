@@ -5,5 +5,6 @@ This repository contains starter code for the HackNights Completion! A basic spe
 
 In your terminal, run two pip install commands
 
-'''pip install speechrecognition'''
-'''pip install pyttsx3'''
+```pip install speechrecognition```
+
+```pip install pyttsx3```
